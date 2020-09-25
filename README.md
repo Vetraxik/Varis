@@ -2,6 +2,8 @@
 > Varis stands for Vetra's auto rice & install script and it does just about everthing it promises, basically its just a file which contains sudo apt install x y z 
 ## Varis.sh
 Varis installs everything I need on my pc, even optifine for minecraft 1.16.2.  
+
+[![INSERT YOUR GRAPHIC HERE](https://media.discordapp.net/attachments/334004876596084737/759173430074540072/unknown.png?width=1194&height=671)]()
 That includes:
 - <a href="https://github.com/flightlessmango/MangoHud" target="_blank">**MangoHud**</a>
 - <a href="https://github.com/GloriousEggroll/proton-ge-custom" target="_blank">**GloriousEggroll's proton ge custom**</a>
