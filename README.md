@@ -14,13 +14,14 @@ That includes:
 - 3 Variants of Arc-Black 
 - Steam
 - gnome-tweak-tool
-- MangoHud
+> Varis not only downloads for example - <a href="https://github.com/GloriousEggroll/proton-ge-custom" target="_blank">**GloriousEggroll's proton ge custom**</a>
+but also installs it.
 ## VarisMinimal.sh
-This installs everything else, but it what it doesn't install is:
+If Varis is coke, then this one is diet. It installs the really barebones things.It skips packages such as:
 - <a href="https://github.com/flightlessmango/MangoHud" target="_blank">**MangoHud**</a>
 - <a href="https://github.com/GloriousEggroll/proton-ge-custom" target="_blank">**GloriousEggroll's proton ge custom**</a>
 - <a href="https://github.com/M-Reimer/wine-lol" target="_blank">**M-Reimer's wine-lol and its patched glibc**</a>
-Also skipps packages like:
 - Discord
 - Minecraft
 - MangoHud
+> This "project" came out of my boredom, loneliness and I used it as a distraction not to fall into sadness. I just needed something to distract my self from thinking. And damn was it fun writing it, even if it is a basic piece of code. Who knows, maybe it might be usefull to someone
