@@ -16,7 +16,7 @@ That includes:
 - 3 Variants of Arc-Black 
 - Steam
 - gnome-tweak-tool
-> Varis not only downloads for example - <a href="https://github.com/GloriousEggroll/proton-ge-custom" target="_blank">**GloriousEggroll's proton ge custom**</a>
+> Varis not only downloads for example - <a href="https://github.com/GloriousEggroll/proton-ge-custom" target="_blank">**GloriousEggroll's Proton-ge**</a>
 but also installs it.
 ## VarisMinimal.sh
 If Varis is coke, then this one is diet. It installs the really barebones things.It skips packages such as:
