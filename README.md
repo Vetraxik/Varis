@@ -26,4 +26,3 @@ If Varis is coke, then this one is diet. It installs the really barebones things
 - Discord
 - Minecraft
 - MangoHud
-> This "project" came out of my boredom, loneliness and I used it as a distraction not to fall into sadness. I just needed something to distract my self from thinking. And damn was it fun writing it, even if it is a basic piece of code. Who knows, maybe it might be usefull to someone
